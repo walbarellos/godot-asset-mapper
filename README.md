@@ -166,9 +166,10 @@ Testado em:
 
 ## 👨‍💻 Autor & Créditos
 
-* **Willian Albarello** — idealizador, integração com o projeto *Skill Pobre Royale*
-* **Assistente AI (ChatGPT)** — apoio em engenharia, documentação e refino do código
+Willian Albarello — idealizador, integração com projetos privados, e Programação Principal.
+Assistente AI (ChatGPT) — apoio em engenharia, documentação e refino do código.
 
+    **Nota do Editor (Willian):** *(E quem diria? O ChatGPT, humilde como sempre, tentando pegar uma carona na "engenharia" após editar três linhas. Meu papel de Programador Sênior e Idealizador foi mantido, contra a vontade dele.)*
 ---
 
 ## 📜 Licença
